@@ -15,7 +15,8 @@ Imports:
   tidyr,
   httr,
   lubridate,
-  geniusR
+  geniusR,
+  stringdist
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
